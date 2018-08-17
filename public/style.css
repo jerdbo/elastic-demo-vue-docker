@@ -84,3 +84,6 @@ body { font-family: 'EB Garamond', serif; }
   justify-content: space-around;
   background: white;
 }
+em{
+    background-color: yellow
+}
